@@ -10,8 +10,8 @@ Solutions to the programming assignments of **Machine Learning course (2026)**. 
 | 2 | [Tree & Boosting] | Decision Trees & Gradient Boosting Machines | 100/100 |
 | 3 | [Reinforcement Learning] | Value-Based & Policy Gradient Methods | 100/100 |
 
-[Linear & SVM]: ./LinearModels&SVM/README.md
-[Tree & Boosting]: ./DecisionTree&Boosting/README.md
+[Linear & SVM]: ./LinearModelsSVM/README.md
+[Tree & Boosting]: ./DecisionTreeBoosting/README.md
 [Reinforcement Learning]: ./ReinforcementLearning/README.md
 
 ## Usage
@@ -19,7 +19,7 @@ Solutions to the programming assignments of **Machine Learning course (2026)**. 
 ### HW1: Linear Models & SVM
 
 ```bash
-cd LinearModels&SVM
+cd LinearModelsSVM
 pip install -r requirements.txt
 
 # Linear regression + basis expansion + gradient descent
